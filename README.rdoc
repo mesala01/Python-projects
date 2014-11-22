@@ -1,0 +1,14 @@
+This folder contains  six different python projects that i have worked. 
+
+1) The Binary Search Tree program to search, insert and delete elements in the a binary tree,
+
+2) The Bouncing Ball project is a simple python GUI code 
+3)A simple Card Game that shows the back and the front of a card on click.
+
+4)A Suduku Game written in python.
+
+5)A Tictactoe Game.
+
+6) And the shape Button program that adds different shapes on the screen when clicked on the shape buttons.
+
+
