@@ -1,4 +1,4 @@
-This folder contains  six different python projects that i have worked. 
+This folder contains  six different python projects that i have worked on. 
 
 1) The Binary Search Tree program to search, insert and delete elements in the a binary tree,
 
